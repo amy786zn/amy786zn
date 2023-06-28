@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data analytics, programming and web design
 - 💞️ I’m looking to collaborate on projects with other beginners and someone who can mentor me in my fields of interest.
 - 📫 You can reach me at yusufanisam@gmail.com
+- 🐱‍🐉 Loving all things Python!!!
 
 <!---
 amy786zn/amy786zn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
